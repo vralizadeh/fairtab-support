@@ -1,6 +1,6 @@
------------------
+---
 title: FairTab Privacy Policy
------------------
+---
 
 # Privacy Policy
 
